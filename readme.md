@@ -3,7 +3,12 @@
 A simple URL Shortener application with Laravel.
 
 ## Image Demo
+ #DB
  <img src="https://res.cloudinary.com/dh7apsl5o/image/upload/v1610030928/url-short/db.png" />
+ 
+ #APP
+ <img src="https://res.cloudinary.com/dh7apsl5o/image/upload/v1610030913/all-links.png" />
+ <img src="https://res.cloudinary.com/dh7apsl5o/image/upload/v1610030913/create.png" />
 
 
 ## Installation
