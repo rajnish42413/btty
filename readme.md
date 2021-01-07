@@ -2,6 +2,10 @@
 
 A simple URL Shortener application with Laravel.
 
+## Image Demo
+ <img src="https://res.cloudinary.com/dh7apsl5o/image/upload/v1610030928/url-short/db.png" />
+
+
 ## Installation
 
 -It's a Laravel `8.17.2` application .
